@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ei-obelay/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Ei Obelay](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ei-obelay/) |
+| **Get License** | [Obtain a Music License for Ei Obelay](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ei-obelay/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `addb41ec44cae3b7a0000e4dbde3f42aa9113c6f9fdd605f8afcf7cc1ce05b94` |
 | **Timestamp** | May 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
