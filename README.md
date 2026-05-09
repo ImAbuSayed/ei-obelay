@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ei-obelay/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Ei Obelay](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ei-obelay/) |
+| **Get License** | [Music Rights & Licensing for Ei Obelay](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ei-obelay/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> এই অবেলায় তোমার নেশায় মাতাল হতে চাই
+> শীতল রাতের উষ্ণতাতে তোমায় কাছে পাই
+> নীল আঁধারে আমার বুকে জ্বালিয়ে দাও আগুন
+> হারিয়ে যাওয়ার নেশায় জাগুক এই প্রেমের ফাগুন
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
